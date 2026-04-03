@@ -186,8 +186,6 @@ Built a robust clinical decision-support pipeline processing **10K+ patient reco
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekPalsra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPalsra&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -197,11 +195,6 @@ Built a robust clinical decision-support pipeline processing **10K+ patient reco
 
 ---
 
-## ⚡ Fun Fact
-
-I love building systems where **software meets hardware meets intelligence** — from designing scalable ML pipelines to deploying models on a $5 microcontroller. Whether it's architecting a clinical AI system or solving a tricky DSA problem at midnight, I believe great engineering is about solving real problems with clean, thoughtful design.
-
----
 
 <div align="center">
 
