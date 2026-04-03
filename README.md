@@ -20,7 +20,7 @@
 - 📄 **IEEE Published Researcher** — ICETCI 2025 (Heart Sound Classification on Raspberry Pi)
 - 💡 **Patent Filed** for Smart Waste Segregation System
 - 🏅 **GATE ECE 2025** Qualified | 🧩 **500+ DSA problems** solved on LeetCode & GFG
-- 🔍 Open to roles in **ML Engineering**, **Software Development**, **Backend Systems**, and **AI for Healthcare**
+- 🔍 Open to roles in **ML Engineering**, **Software Development**, **Backend Systems**
 
 ---
 
@@ -46,7 +46,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-`YOLOv5` • `VGG16` • `ResNet50` • `EfficientNet` • `MobileNet` • `DenseNet` • `LightGBM` • `XGBoost` • `CatBoost`
 
 **🔌 Embedded & Hardware**
 
@@ -92,7 +91,7 @@ Designed and deployed a real-time, edge-based contactless authentication system 
 
 ---
 
-### ♻️ Smart Waste Segregator &nbsp; `Patent Filed`
+### ♻️ Smart Waste Segregator &nbsp; `Patent Accepted`
 > **MobileNet + Raspberry Pi + Servo Motors**
 
 End-to-end automated system: real-time image inference on Raspberry Pi → classification → physical servo actuation. **91% accuracy**. Designed with hardware-software co-design principles. Patent filed for full methodology.
@@ -195,18 +194,3 @@ Built a robust clinical decision-support pipeline processing **10K+ patient reco
 
 </div>
 
----
-
-## ⚡ Fun Fact
-
-I love building systems where **software meets hardware meets intelligence** — from designing scalable ML pipelines to deploying models on a $5 microcontroller. Whether it's architecting a clinical AI system or solving a tricky DSA problem at midnight, I believe great engineering is about solving real problems with clean, thoughtful design.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-*"The best system is one that's built to last, scale, and actually reach the people who need it."*
-
-</div>
