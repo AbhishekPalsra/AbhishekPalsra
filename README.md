@@ -6,26 +6,35 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhipalsra@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekPalsra)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/professor10/)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Palsra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20Embedded%20AI%20Engineer%20%7C%20ECE%20%40%20NIT%20Hamirpur&descAlignY=58&descSize=17" width="100%"/>
+
+<br/>
+
+**📧 [abhipalsra@gmail.com](mailto:abhipalsra@gmail.com)** &nbsp;•&nbsp; **🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-306154184/)** &nbsp;•&nbsp; **💻 [GitHub](https://github.com/AbhishekPalsra)** &nbsp;•&nbsp; **🧩 [LeetCode](https://leetcode.com/u/professor10/)**
+
+<br/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm an **Integrated B.Tech + M.Tech student in Electronics & Communication Engineering** at **NIT Hamirpur** (CGPA: 8.22/10), passionate about pushing the boundaries of **Machine Learning**, **Embedded AI**, and **Biomedical Engineering**.
-
-- 🔬 **Published researcher** at IEEE ICETCI 2025 — Deep Learning on Raspberry Pi for cardiac diagnostics
-- 🧠 Designing ML systems that run on **edge devices** — from ESP32-CAM to Raspberry Pi
-- 🏆 **GATE ECE 2025** qualifier | **500+ problems** solved on LeetCode & GFG
-- 📍 Currently exploring **Ensemble Learning** for clinical AI at LNMIIT Jaipur (Research Intern)
-- 🎯 Looking for opportunities in **ML Research**, **Embedded AI**, and **AI for Healthcare**
+- 🎓 Integrated **B.Tech + M.Tech in Electronics & Communication Engineering** @ **NIT Hamirpur** (CGPA: 8.22/10)
+- 🤖 Focused on **Machine Learning**, **Deep Learning** & **Edge AI** on embedded systems
+- ⚙️ Building real-world AI systems on **Raspberry Pi**, **ESP32**, and **Arduino**
+- 📄 **IEEE Published Researcher** — ICETCI 2025 (Heart Sound Classification on Raspberry Pi)
+- 💡 **Patent Filed** for Smart Waste Segregation System
+- 🏅 **GATE ECE 2025** Qualified | 🧩 **500+ DSA problems** solved on LeetCode & GFG
+- 🔍 Actively seeking roles in **ML Research**, **Embedded AI**, and **AI for Healthcare**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Languages & Core**
+**💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -34,7 +43,7 @@ I'm an **Integrated B.Tech + M.Tech student in Electronics & Communication Engin
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-**ML / AI Frameworks**
+**🤖 AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -42,14 +51,25 @@ I'm an **Integrated B.Tech + M.Tech student in Electronics & Communication Engin
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Hardware & Tools**
+`YOLOv5` • `VGG16` • `ResNet50` • `EfficientNet` • `MobileNet` • `DenseNet` • `LightGBM` • `XGBoost` • `CatBoost`
+
+**🔌 Embedded & Hardware**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+
+**🌐 Backend & Tools**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+`Web Scraping` • `REST APIs` • `Signal Processing` • `IoT`
 
 ---
 
@@ -58,57 +78,87 @@ I'm an **Integrated B.Tech + M.Tech student in Electronics & Communication Engin
 ### 🖐️ Contactless Biometric Recognition System
 > **CNN + YOLOv5 + ESP32-CAM + Arduino Uno**
 
-Built a real-time, low-cost contactless authentication system using custom CNNs achieving **98.8% accuracy**. Integrated ESP32-CAM with Arduino for hygienic, edge-deployed person recognition.
+Developed a novel real-time, edge-deployed contactless authentication system. Custom CNNs trained for wrist biometric recognition with **98.8% accuracy**. ESP32-CAM handles live image capture; YOLOv5 handles detection — all running at low cost with no physical contact.
 
-`Deep Learning` `YOLOv5` `IoT` `Biometrics` `Embedded AI`
+`Deep Learning` `YOLOv5` `IoT` `Biometrics` `Embedded AI` `ESP32`
 
 ---
 
-### ♻️ Smart Water Waste Segregator *(Patent Filed)*
+### ♻️ Smart Waste Segregator &nbsp; `Patent Filed`
 > **MobileNet + Raspberry Pi + Servo Motors**
 
-Engineered an automated waste classification system achieving **91% accuracy** using MobileNet ML model on Raspberry Pi with real-time servo actuation. Patent filed for the design and automation methodology.
+Automated real-time waste classification using MobileNet on Raspberry Pi with servo-actuated physical sorting — **91% accuracy**. Patent filed for the full design and automation methodology.
 
-`MobileNet` `Raspberry Pi` `IoT` `Computer Vision` `Patent`
+`MobileNet` `Raspberry Pi` `Computer Vision` `IoT` `Patent`
 
 ---
 
 ### 🫀 Heart Sound Classification on Raspberry Pi
-> **VGG16 / ResNet50 / MobileNetV2 / DenseNet121 — Published at IEEE ICETCI 2025**
+> **VGG16 / ResNet50 / MobileNetV2 / DenseNet121**
 
-Deployed deep learning models for real-time PCG signal classification using scalogram representations. Achieved **91.4% accuracy** with VGG16. Built a web app for remote cardiovascular monitoring — targeting rural healthcare access.
+📌 **Published at IEEE ICETCI 2025** — *"Scalogram-Based Heart Sound Classification Using Deep Learning on Raspberry Pi"*
 
-📄 *Published: "Scalogram-Based Heart Sound Classification Using Deep Learning on Raspberry Pi" — ICETCI 2025, IEEE*
+Deployed scalogram-based deep learning pipeline for real-time PCG signal classification, enabling affordable rural cardiovascular screening. **91.4% accuracy** with VGG16, fastest inference with MobileNetV2. Web app built for remote monitoring.
 
-`Transfer Learning` `Signal Processing` `Flask` `Raspberry Pi` `Healthcare AI`
+`Transfer Learning` `Signal Processing` `Flask` `Raspberry Pi` `Healthcare AI` `IEEE`
 
 ---
 
 ### 👁️ Diabetic Retinopathy Classification
-> **EfficientNet-B4/B5 + SE-ResNeXt50 Ensemble**
+> **EfficientNet-B4 + EfficientNet-B5 + SE-ResNeXt50 Ensemble**
 
-Multistage transfer learning pipeline for diabetic retinopathy staging on the **APTOS 2019 dataset (13,000 images)**. Ensemble achieved **98.6% accuracy**, 0.97 sensitivity & specificity.
+Multistage transfer learning for diabetic retinopathy staging on the **APTOS 2019 dataset (13,000 images)**. Ensemble approach achieved **98.6% accuracy** with **0.97 sensitivity & specificity** — outperforming single-model baselines significantly.
 
-`EfficientNet` `Ensemble Learning` `Transfer Learning` `Medical Imaging`
+`EfficientNet` `SE-ResNeXt` `Ensemble Learning` `Medical Imaging` `Transfer Learning`
+
+---
+
+## 📄 Research & Publication
+
+📌 **Scalogram-Based Heart Sound Classification Using Deep Learning on Raspberry Pi**
+
+- Presented at **IEEE ICETCI 2025**
+- Deployed VGG16, ResNet50, MobileNetV2, DenseNet121 on edge hardware
+- Scalogram-based PCG signal representation for cardiac diagnostics
+- Targeting accessible healthcare in rural/low-resource environments
 
 ---
 
 ## 💼 Experience
 
-### 🔬 Research Intern — LNMIIT Jaipur *(May 2025 – July 2025)*
-Engineered an **Ensemble Learning framework** (LightGBM + XGBoost + CatBoost) for neonatal sepsis detection using **MIMIC-III** clinical data. Processed 10K+ patient records with 30+ features; Voting Classifier achieved **+4% accuracy improvement** over single-model baselines.
+### 🔬 Research Intern — LNMIIT Jaipur &nbsp; *(May 2025 – July 2025)*
+
+- Engineered an **Ensemble Learning framework** combining LightGBM, XGBoost, and CatBoost for **neonatal sepsis detection**
+- Used **MIMIC-III** clinical database — processed 10K+ patient records with 30+ clinical features
+- Applied rigorous data cleaning, normalization & missing-value imputation
+- Voting Classifier yielded **+4% accuracy improvement** over single-model baselines
 
 ---
 
-## 🏆 Achievements
+## 📚 Coursework
 
-| 🎖️ Achievement | Details |
-|---|---|
-| 📄 IEEE Publication | ICETCI 2025 — Heart Sound Classification |
-| 🏅 GATE ECE 2025 | Qualified with score **362** |
-| 💡 Patent Filed | Smart Waste Segregation System |
-| 🧩 Problem Solving | **500+** problems on LeetCode & GeeksforGeeks |
-| 🎓 Academic | CGPA **8.22/10** at NIT HP |
+`Data Structures & Algorithms` • `Operating Systems` • `DBMS` • `Computer Networks`
+`Machine Learning` • `Deep Learning` • `Artificial Intelligence` • `Signal Processing` • `Digital Electronics`
+
+---
+
+## 🧩 Core Strengths
+
+- 🧠 **Edge AI & Embedded Systems** — deploying ML models on resource-constrained hardware
+- 🔬 **Research-oriented Engineering** — from hypothesis to IEEE publication
+- 📊 **Biomedical AI** — building diagnostic tools for real-world healthcare impact
+- ⚙️ **End-to-End ML Pipelines** — data processing, model training, deployment, monitoring
+- 💡 **Innovation** — Patent-filed system design with practical implementation
+
+---
+
+## 🏆 Highlights
+
+- 📄 **IEEE Published** — ICETCI 2025 (Heart Sound Classification)
+- 💡 **Patent Filed** — Smart Waste Segregation System
+- 🏅 **GATE ECE 2025** Qualified — Score: 362
+- 🧩 **500+** DSA problems solved on LeetCode & GeeksforGeeks
+- 🎓 CGPA **8.22/10** at NIT Hamirpur
 
 ---
 
@@ -116,12 +166,10 @@ Engineered an **Ensemble Learning framework** (LightGBM + XGBoost + CatBoost) fo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhishekPalsra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPalsra&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekPalsra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPalsra&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbhishekPalsra&theme=tokyonight&hide_border=true)
 
@@ -129,10 +177,16 @@ Engineered an **Ensemble Learning framework** (LightGBM + XGBoost + CatBoost) fo
 
 ---
 
+## ⚡ Fun Fact
+
+I love building AI systems that don't just live in the cloud — they run **at the edge**, in the real world, on cheap hardware, solving real problems. Whether it's diagnosing heart disease in a rural clinic or authenticating someone without touching a sensor, I believe the best AI is the kind that actually reaches people.
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*"Building intelligent systems at the intersection of hardware and AI"*
+*"The best machine learning model is one that runs where it's needed most."*
 
 </div>
