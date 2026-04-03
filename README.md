@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Palsra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20ECE%20Engineer%20%7C%20IoT%20Innovator&descAlignY=58&descSize=18" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-306154184/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhipalsra@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekPalsra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/professor10/)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Integrated B.Tech + M.Tech student in Electronics & Communication Engineering** at **NIT Himachal Pradesh** (CGPA: 8.22/10), passionate about pushing the boundaries of **Machine Learning**, **Embedded AI**, and **Biomedical Engineering**.
+I'm an **Integrated B.Tech + M.Tech student in Electronics & Communication Engineering** at **NIT Hamirpur** (CGPA: 8.22/10), passionate about pushing the boundaries of **Machine Learning**, **Embedded AI**, and **Biomedical Engineering**.
 
 - 🔬 **Published researcher** at IEEE ICETCI 2025 — Deep Learning on Raspberry Pi for cardiac diagnostics
 - 🧠 Designing ML systems that run on **edge devices** — from ESP32-CAM to Raspberry Pi
