@@ -1,7 +1,6 @@
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Palsra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20Embedded%20AI%20Engineer%20%7C%20ECE%20%40%20NIT%20Hamirpur&descAlignY=58&descSize=17" width="100%"/>
-
-<br/>
 
 **📧 [abhipalsra@gmail.com](mailto:abhipalsra@gmail.com)** &nbsp;•&nbsp; **🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-306154184/)** &nbsp;•&nbsp; **💻 [GitHub](https://github.com/AbhishekPalsra)** &nbsp;•&nbsp; **🧩 [LeetCode](https://leetcode.com/u/professor10/)**
 
