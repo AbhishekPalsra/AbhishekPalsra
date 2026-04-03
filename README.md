@@ -92,7 +92,7 @@ Designed and deployed a real-time, edge-based contactless authentication system 
 
 ---
 
-### ♻️ Smart Waste Segregator &nbsp; `Patent Filed`
+### ♻️ Smart Waste Segregator &nbsp; `Patent Accepted`
 > **MobileNet + Raspberry Pi + Servo Motors**
 
 End-to-end automated system: real-time image inference on Raspberry Pi → classification → physical servo actuation. **91% accuracy**. Designed with hardware-software co-design principles. Patent filed for full methodology.
